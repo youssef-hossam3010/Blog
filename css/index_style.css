@@ -1,0 +1,111 @@
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: red;
+}
+
+.home{
+    background-image: url(../image/cover.jpg);
+   
+    background-size: cover;
+     background-position: center center;
+    height: 650px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.home .layer{
+     background-color: rgba(196, 45, 50, 0.68);
+    width: 100%;
+    height: 100%;
+}
+.home button:hover{
+    background-color: white;
+    color: #E66771;
+}
+
+
+.about i{
+    font-size: 40px;
+    margin-right: .5rem;
+}
+
+.about i:hover{
+    color: red;
+    
+}
+.what i{
+    background-color: #F5F5F5;
+    padding: 12px;
+    margin-bottom: 12px;
+    font-size: 20px
+}
+.what .sss:hover{
+    color: red;
+}
+.what .sss i:hover{
+    background-color: red;
+    color: white;
+}
+
+
+.counter{
+    background-image: url(../image/project-counter.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 400px;
+}
+
+.counter i{
+    color: #EC3237;
+    display: block;
+    font-size: 25px;
+}
+
+.portfolio .links a{
+    border: solid 1px #dddddd;
+}
+.portfolio .links a:hover{
+    color: red;
+    background: #F5F5F5;
+    border-color: red;
+}
+
+
+.slider
+{
+    background-image: url(../image/client-testimonial.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 450px;
+    background-attachment: fixed;
+}
+.our-slider .rounded-circle
+{
+    border: 6px solid #ec3237;
+}
+.our-slider h3
+{
+    color:  #ec3237;
+    font-weight: bolder;
+}
+
+.form i{
+    padding: 8px;
+    margin-right: 10px;
+}
+
+
+.form .icon i{
+    font-size: 40px;
+    margin-right: .5rem;
+    
+}
+.form .icon  i:hover{
+    color: red;
+    
+}
+
+
+
+
+
+
